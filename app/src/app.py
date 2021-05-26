@@ -23,3 +23,5 @@ if __name__ == '__main__':
   
   print("text_raito: {}".format(text_ratio))
   print("mplg_result_ratio: {}".format(mplg_result_ratio))
+
+  print(mplg_result_01)
